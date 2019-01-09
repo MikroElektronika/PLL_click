@@ -1,0 +1,5 @@
+module Click_PLL_config
+
+include Click_PLL_types
+
+end.
